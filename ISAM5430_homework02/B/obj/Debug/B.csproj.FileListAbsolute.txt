@@ -1,0 +1,7 @@
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\bin\Debug\B.exe.config
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\bin\Debug\B.exe
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\bin\Debug\B.pdb
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\obj\Debug\B.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\obj\Debug\B.exe
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\obj\Debug\B.pdb
+C:\Users\ishan\source\repos\ISAM5430_homework02\B\obj\Debug\B.csprojAssemblyReference.cache

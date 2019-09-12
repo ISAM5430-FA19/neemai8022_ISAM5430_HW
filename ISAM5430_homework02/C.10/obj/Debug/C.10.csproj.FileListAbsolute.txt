@@ -1,0 +1,6 @@
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\bin\Debug\C.10.exe.config
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\bin\Debug\C.10.exe
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\bin\Debug\C.10.pdb
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\obj\Debug\C.10.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\obj\Debug\C.10.exe
+C:\Users\ishan\source\repos\ISAM5430_homework02\C.10\obj\Debug\C.10.pdb
