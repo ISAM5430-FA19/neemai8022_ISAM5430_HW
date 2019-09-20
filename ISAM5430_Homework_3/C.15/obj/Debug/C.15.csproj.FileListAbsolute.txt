@@ -1,0 +1,6 @@
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\bin\Debug\C.15.exe.config
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\bin\Debug\C.15.exe
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\bin\Debug\C.15.pdb
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\obj\Debug\C.15.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\obj\Debug\C.15.exe
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\C.15\obj\Debug\C.15.pdb

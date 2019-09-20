@@ -1,0 +1,7 @@
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\obj\Debug\B.4sides.csprojAssemblyReference.cache
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\obj\Debug\B.4sides.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\bin\Debug\B.4sides.exe.config
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\bin\Debug\B.4sides.exe
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\bin\Debug\B.4sides.pdb
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\obj\Debug\B.4sides.exe
+C:\Users\ishan\source\repos\ISAM5430_Homework_3\B.4sides\obj\Debug\B.4sides.pdb
